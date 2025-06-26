@@ -1,0 +1,153 @@
+2025-06-19 14:05:22 - Plaka: Lo - Tür: bilinmiyor
+2025-06-19 14:07:41 - Plaka: ctobus 0,72 - Tür: bilinmiyor
+2025-06-19 14:07:42 - Plaka: otobus 0.76 - Tür: bilinmiyor
+2025-06-19 14:07:43 - Plaka: ctobus 0.74 - Tür: bilinmiyor
+2025-06-19 14:07:44 - Plaka: otobus 0,75 - Tür: bilinmiyor
+2025-06-19 14:07:45 - Plaka: otobus 076 - Tür: bilinmiyor
+2025-06-19 14:07:46 - Plaka: etobus 076 - Tür: bilinmiyor
+2025-06-19 14:07:47 - Plaka: otobus 0 76 - Tür: bilinmiyor
+2025-06-19 14:07:48 - Plaka: otobus 075 - Tür: bilinmiyor
+2025-06-19 14:07:49 - Plaka: otobus 077 - Tür: bilinmiyor
+2025-06-19 14:07:50 - Plaka: otobus 0 77 - Tür: bilinmiyor
+2025-06-19 14:07:51 - Plaka: ptobus 073 - Tür: bilinmiyor
+2025-06-19 14:07:52 - Plaka: otobus 0 80 - Tür: bilinmiyor
+2025-06-19 14:07:52 - Plaka: otobus 0 79 - Tür: bilinmiyor
+2025-06-19 14:07:53 - Plaka: ptobus 078 - Tür: bilinmiyor
+2025-06-19 14:07:54 - Plaka: ptobus 073 - Tür: bilinmiyor
+2025-06-19 14:07:57 - Plaka: otobua 07777 - Tür: bilinmiyor
+2025-06-19 14:07:58 - Plaka: otobus 0 76 - Tür: bilinmiyor
+2025-06-19 14:07:59 - Plaka: otobus 077 - Tür: bilinmiyor
+2025-06-19 14:08:00 - Plaka: otobus - Tür: bilinmiyor
+2025-06-19 14:08:01 - Plaka: otobu: 0 73 - Tür: bilinmiyor
+2025-06-19 14:08:02 - Plaka: otobua 0779 - Tür: bilinmiyor
+2025-06-19 14:08:03 - Plaka: otobus 0 78 - Tür: bilinmiyor
+2025-06-19 14:08:03 - Plaka: ptobus 0 80 - Tür: bilinmiyor
+2025-06-19 14:08:04 - Plaka: etobus 0 79 - Tür: bilinmiyor
+2025-06-19 14:08:05 - Plaka: otobua 0773 - Tür: bilinmiyor
+2025-06-19 14:08:06 - Plaka: otobus 0 73 - Tür: bilinmiyor
+2025-06-19 14:08:07 - Plaka: otobua 074 - Tür: bilinmiyor
+2025-06-19 14:08:08 - Plaka: ctobus - Tür: bilinmiyor
+2025-06-19 14:08:09 - Plaka: otobus - Tür: bilinmiyor
+2025-06-19 14:08:10 - Plaka: otobus 0,75 - Tür: bilinmiyor
+2025-06-19 14:08:11 - Plaka: otobus 073 - Tür: bilinmiyor
+2025-06-19 14:08:12 - Plaka: ptobus 0,76 - Tür: bilinmiyor
+2025-06-19 14:08:13 - Plaka: otobus 0 74 - Tür: bilinmiyor
+2025-06-19 14:08:15 - Plaka: otobus 077 - Tür: bilinmiyor
+2025-06-19 14:08:17 - Plaka: pebus 073 - Tür: bilinmiyor
+2025-06-19 14:08:19 - Plaka: etobus 0.69 - Tür: bilinmiyor
+2025-06-19 14:08:21 - Plaka: etebus 071 - Tür: bilinmiyor
+2025-06-19 14:08:23 - Plaka: etobus 072 - Tür: bilinmiyor
+2025-06-19 14:08:25 - Plaka: etobua 0770 - Tür: bilinmiyor
+2025-06-19 14:08:27 - Plaka: 2 - Tür: bilinmiyor
+2025-06-19 14:08:30 - Plaka: ctebusi 9 76 - Tür: bilinmiyor
+2025-06-19 14:08:32 - Plaka: D3 A4p294 - Tür: bilinmiyor
+2025-06-19 14:08:33 - Plaka: Etabur9ize - Tür: bilinmiyor
+2025-06-19 14:08:35 - Plaka: stobur d 76 - Tür: bilinmiyor
+2025-06-19 14:08:37 - Plaka: otobua 0.76 - Tür: bilinmiyor
+2025-06-19 14:08:39 - Plaka: Uuy - Tür: bilinmiyor
+2025-06-19 14:08:41 - Plaka: [3 AAp294 - Tür: bilinmiyor
+2025-06-19 14:08:47 - Plaka: ctobur - Tür: bilinmiyor
+2025-06-20 12:50:51 - Plaka: otobus - Tür: plaka
+2025-06-20 12:51:19 - Plaka: otobus 0.37 - Tür: plaka
+2025-06-20 12:51:28 - Plaka: otobus 0.53 - Tür: plaka
+2025-06-20 12:51:36 - Plaka: otobus 0.51 - Tür: plaka
+2025-06-20 12:51:45 - Plaka: otobus 0.48 - Tür: plaka
+2025-06-20 12:51:53 - Plaka: otobus 0.55 - Tür: plaka
+2025-06-20 12:52:01 - Plaka: otobus 0.64 - Tür: plaka
+2025-06-20 12:52:10 - Plaka: otobus 0.62 - Tür: plaka
+2025-06-20 12:52:18 - Plaka: otobus 0.59 - Tür: plaka
+2025-06-20 12:52:26 - Plaka: otobus 0.52 - Tür: plaka
+2025-06-20 12:52:34 - Plaka: otobus 0.71 - Tür: plaka
+2025-06-20 12:52:41 - Plaka: CHOSZZK - Tür: plaka
+2025-06-20 12:52:49 - Plaka: KHoSZz - Tür: plaka
+2025-06-20 12:52:57 - Plaka: otobus 0.62 - Tür: plaka
+2025-06-20 12:53:05 - Plaka: Kkos ZZK - Tür: plaka
+2025-06-20 12:53:13 - Plaka: otobus 0.40 - Tür: plaka
+2025-06-20 12:53:21 - Plaka: otobus 0.57 - Tür: plaka
+2025-06-20 12:53:29 - Plaka: KNO5 ZZK - Tür: plaka
+2025-06-20 12:53:38 - Plaka: Khos ZZK - Tür: plaka
+2025-06-20 12:53:46 - Plaka: otobus 0.48 - Tür: plaka
+2025-06-20 12:53:55 - Plaka: Fkd - Tür: plaka
+2025-06-20 12:54:04 - Plaka: otobus 0.48 - Tür: plaka
+2025-06-20 12:54:12 - Plaka: JFs - Tür: plaka
+2025-06-20 12:54:30 - Plaka: otobus 0.38 - Tür: plaka
+2025-06-20 12:54:38 - Plaka: Khos ZZk - Tür: plaka
+2025-06-20 12:54:47 - Plaka: otobus 0.47 - Tür: plaka
+2025-06-20 12:54:56 - Plaka: otobus 0.64 - Tür: plaka
+2025-06-20 12:55:04 - Plaka: otobus 0.61 - Tür: plaka
+2025-06-20 12:55:13 - Plaka: otobus 0.64 - Tür: plaka
+2025-06-20 12:55:21 - Plaka: otobus 0.71 - Tür: plaka
+2025-06-20 12:55:30 - Plaka: otobus 0.47 - Tür: plaka
+2025-06-20 12:55:39 - Plaka: otobus 0.58 - Tür: plaka
+2025-06-20 12:55:48 - Plaka: otobus 0.53 - Tür: plaka
+2025-06-20 12:55:56 - Plaka: MY - Tür: plaka
+2025-06-20 12:56:05 - Plaka: otobus 0.58 - Tür: plaka
+2025-06-20 12:56:23 - Plaka: ZhY - Tür: plaka
+2025-06-20 12:56:29 - Plaka: EGINBG - Tür: plaka
+2025-06-20 12:56:38 - Plaka: otahus 0.71 - Tür: plaka
+2025-06-20 12:56:46 - Plaka: otobue 044 - Tür: plaka
+2025-06-20 12:56:54 - Plaka: HM - Tür: plaka
+2025-06-20 12:56:58 - Plaka: HH - Tür: plaka
+2025-06-20 12:57:03 - Plaka: HH - Tür: plaka
+2025-06-20 12:57:08 - Plaka: HNI - Tür: plaka
+2025-06-20 12:57:12 - Plaka: HHU - Tür: plaka
+2025-06-20 12:57:17 - Plaka: HhI - Tür: plaka
+2025-06-20 12:57:23 - Plaka: HNIA - Tür: plaka
+2025-06-20 12:57:28 - Plaka: HNIA - Tür: plaka
+2025-06-20 12:57:33 - Plaka: HNIC - Tür: plaka
+2025-06-20 12:57:38 - Plaka: HNLA - Tür: plaka
+2025-06-20 12:57:44 - Plaka: HNLA - Tür: plaka
+2025-06-20 12:57:49 - Plaka: HNIS - Tür: plaka
+2025-06-20 12:57:55 - Plaka: HNIJ - Tür: plaka
+2025-06-20 12:58:00 - Plaka: HNIJ - Tür: plaka
+2025-06-20 12:58:06 - Plaka: HMI4 - Tür: plaka
+2025-06-20 12:58:11 - Plaka: HNIA - Tür: plaka
+2025-06-20 12:58:18 - Plaka: otobus 0.48 - Tür: plaka
+2025-06-20 12:58:24 - Plaka: otobus 0.38 - Tür: plaka
+2025-06-20 12:58:30 - Plaka: HNIA - Tür: plaka
+2025-06-20 12:58:36 - Plaka: HNI4 - Tür: plaka
+2025-06-20 12:58:42 - Plaka: HNI4 - Tür: plaka
+2025-06-20 12:58:48 - Plaka: otobus - Tür: plaka
+2025-06-20 12:58:53 - Plaka: HNIA - Tür: plaka
+2025-06-20 12:58:59 - Plaka: HNI4 - Tür: plaka
+2025-06-20 12:59:04 - Plaka: HNI4 - Tür: plaka
+2025-06-20 12:59:10 - Plaka: HNIA - Tür: plaka
+2025-06-20 12:59:16 - Plaka: HNI4O - Tür: plaka
+2025-06-20 12:59:22 - Plaka: otobus 0.48 - Tür: plaka
+2025-06-20 12:59:28 - Plaka: otobus 0.57 - Tür: plaka
+2025-06-20 12:59:33 - Plaka: otobus 0.51 - Tür: plaka
+2025-06-20 12:59:41 - Plaka: otobus 0.51 - Tür: plaka
+2025-06-20 12:59:47 - Plaka: Hc - Tür: plaka
+2025-06-20 12:59:55 - Plaka: otobus 0.39 - Tür: plaka
+2025-06-20 13:00:00 - Plaka: otobus 0.44 - Tür: plaka
+2025-06-20 13:00:06 - Plaka: EuG - Tür: plaka
+2025-06-20 13:00:11 - Plaka: HHLC - Tür: plaka
+2025-06-20 13:00:20 - Plaka: otobus 0.57 - Tür: plaka
+2025-06-20 13:00:25 - Plaka: otobus 0.57 - Tür: plaka
+2025-06-20 13:00:31 - Plaka: EC - Tür: plaka
+2025-06-20 13:00:39 - Plaka: Mch - Tür: plaka
+[2025-06-20 13:08:53] Araç Türü: otobus | Plaka: otobus
+[2025-06-20 13:09:18] Araç Türü: otobus | Plaka: otobus 0.37
+[2025-06-20 13:09:28] Araç Türü: otobus | Plaka: otobus 0.53
+[2025-06-20 13:09:36] Araç Türü: otobus | Plaka: otobus 0.51
+[2025-06-20 13:09:45] Araç Türü: otobus | Plaka: otobus 0.48
+[2025-06-20 13:09:53] Araç Türü: otobus | Plaka: otobus 0.55
+[2025-06-20 13:10:01] Araç Türü: otobus | Plaka: otobus 0.64
+[2025-06-20 13:10:09] Araç Türü: otobus | Plaka: otobus 0.62
+[2025-06-20 13:10:18] Araç Türü: otobus | Plaka: otobus 0.59
+[2025-06-20 13:10:26] Araç Türü: otobus | Plaka: otobus 0.52
+[2025-06-20 13:10:33] Araç Türü: otobus | Plaka: otobus 0.71
+[2025-06-20 13:10:41] Araç Türü: otobus | Plaka: CHOSZZK
+[2025-06-20 13:10:49] Araç Türü: otobus | Plaka: KHoSZz
+[2025-06-20 13:10:56] Araç Türü: otobus | Plaka: otobus 0.62
+[2025-06-20 13:11:04] Araç Türü: Bilinmiyor | Plaka: Kkos ZZK
+[2025-06-20 13:11:12] Araç Türü: otobus | Plaka: otobus 0.40
+[2025-06-20 13:11:21] Araç Türü: otobus | Plaka: otobus 0.57
+[2025-06-20 13:11:29] Araç Türü: Bilinmiyor | Plaka: KNO5 ZZK
+[2025-06-20 13:11:37] Araç Türü: Bilinmiyor | Plaka: Khos ZZK
+[2025-06-20 13:11:45] Araç Türü: otobus | Plaka: otobus 0.48
+[2025-06-20 13:11:54] Araç Türü: otobus | Plaka: Fkd
+[2025-06-20 13:12:03] Araç Türü: otobus | Plaka: otobus 0.48
+[2025-06-20 13:12:14] Araç Türü: Bilinmiyor | Plaka: JFs
+[2025-06-20 13:12:38] Araç Türü: otobus | Plaka: otobus 0.38
+[2025-06-20 13:12:50] Araç Türü: Bilinmiyor | Plaka: Khos ZZk
