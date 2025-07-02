@@ -31,9 +31,14 @@ Kullanıcı dostu **Tkinter** arayüzü sayesinde sistem; **kameradan**, **video
 
 ---
 
-## 📸 Ekran Görüntüleri (Opsiyonel)
+## 📸 Ekran Görüntüleri
 
 ![Ekran görüntüsü 2025-06-24 172014](https://github.com/user-attachments/assets/2f375f93-d472-4a8f-8d27-6bae0034981e)
+![WhatsApp Görsel 2025-06-26 saat 19 49 44_bc29934f](https://github.com/user-attachments/assets/64c231ea-b877-4e67-ad04-83130006479b)
+![Ekran görüntüsü 2025-06-25 171932](https://github.com/user-attachments/assets/5f9ebf26-a1f6-4188-907b-2737f830e11a)
+
+
+
 
 
 
@@ -48,15 +53,6 @@ Kullanıcı dostu **Tkinter** arayüzü sayesinde sistem; **kameradan**, **video
 
 ---
 
-## 🔧 Kurulum ve Kullanım
 
-Kurulum ve kullanım talimatları için `docs/INSTALL.md` veya aşağıdaki adımları takip edebilirsiniz (bu bölüm sizin tercihinize göre eklenebilir):
-
-```bash
-# Gerekli kütüphanelerin yüklenmesi
-pip install -r requirements.txt
-
-# Uygulamanın çalıştırılması
-python app.py
-
-#Test videoları: https://www.youtube.com/playlist?list=PLJrnF7NuefEjmw9RcbovnnBMoImNr2Vcu
+## Test videoları
+ https://www.youtube.com/playlist?list=PLJrnF7NuefEjmw9RcbovnnBMoImNr2Vcu
